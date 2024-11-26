@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Datev]!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/yourusername)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
@@ -27,19 +27,19 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datev-araboghlian&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datev-araboghlian&layout=compact&theme=radical)
 
 ---
 
 ## 🔖 Featured Projects
-- [**Project Name 1**](https://github.com/yourusername/project1)  
+- [**Project Name 1**](https://github.com/datev-araboghlian/project1)  
   _Brief Description of Project 1_
-- [**Project Name 2**](https://github.com/yourusername/project2)  
+- [**Project Name 2**](https://github.com/datev-araboghlian/project2)  
   _Brief Description of Project 2_
-- [**Project Name 3**](https://github.com/yourusername/project3)  
+- [**Project Name 3**](https://github.com/datev-araboghlian/project3)  
   _Brief Description of Project 3_
-- [**Project Name 4**](https://github.com/yourusername/project4)  
+- [**Project Name 4**](https://github.com/datev-araboghlian/project4)  
   _Brief Description of Project 4_
 
 ---
