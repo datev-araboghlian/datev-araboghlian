@@ -9,7 +9,7 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/yourusername)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)  
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)](https://github.com/yourusername)
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)](https://github.com/datev-araboghlian)
 
 ---
 
