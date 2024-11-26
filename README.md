@@ -1,10 +1,10 @@
 # 👋 Hi, I'm
 ```
-DDDDD AAAAAA TTTTTTTT EEEEEE V V
-D D A A TT EE V V
-D D AAAAAA TT EEEEE V V
-D D A A TT EE V V
-DDDDD A A TT EEEEEE VVV
+DDDDD    AAAAAA  TTTTTTTT   EEEEEE   V    V
+D    D   A    A     TT      EE       V    V
+D    D   AAAAAA     TT      EEEEE    V    V
+D    D   A    A     TT      EE       V    V
+DDDDD    A    A     TT      EEEEEE    VVVV
 ```
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/yourusername)  
