@@ -14,11 +14,11 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ---
 
 ## 💼 About Me
-- 🔭 I’m currently working on **[Your Cool Project]([https://github.com/yourusername/yourproject](https://github.com/datev-araboghlian/Gakhaghan))**  
-- 🌱 I’m learning **[Your Current Tech/Skill]**  
-- 💬 Ask me about **[Your Expertise Area]**  
+- 🔭 I’m currently working on **[a hangman game in Armenian]([https://github.com/datev-araboghlian/Gakhaghan.git))**  
+- 🌱 I’m learning **[cyber security]**  
+- 💬 Ask me about **[the web]**  
 - 📫 How to reach me: **[datev.arab-oghlian@gmail.com](mailto:datev.arab-oghlian@gmail.com)**  
-- ⚡ Fun fact: **[A Fun Fact About You]**  
+- ⚡ Fun fact: **[I'm a scout]**  
 
 ---
 
