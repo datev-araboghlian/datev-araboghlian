@@ -46,5 +46,5 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 
 ## 🌍 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/datev-araboghlian)](https://www.linkedin.com/in/datev-araboghlian)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/datevaraboghlian/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
