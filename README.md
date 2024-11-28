@@ -14,7 +14,7 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ---
 
 ## 💼 About Me
-- 🔭 I’m currently working on **[a hangman game in Armenian]([https://github.com/datev-araboghlian/Gakhaghan.git)**  
+- 🔭 I’m currently working on ![a hangman game in Armenian]([https://github.com/datev-araboghlian/Gakhaghan.git)
 - 🌱 I’m learning **cyber security**  
 - 💬 Ask me about **the web**  
 - 📫 How to reach me: **[datev.arab-oghlian@gmail.com](mailto:datev.arab-oghlian@gmail.com)**  
@@ -27,8 +27,6 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)  
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
 
 ---
