@@ -38,15 +38,10 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ---
 
 ## 🔖 Featured Projects
-- [**Project Name 1**](https://github.com/datev-araboghlian/project1)  
-  _Brief Description of Project 1_  
-- [**Project Name 2**](https://github.com/datev-araboghlian/project2)  
-  _Brief Description of Project 2_  
-- [**Project Name 3**](https://github.com/datev-araboghlian/project3)  
-  _Brief Description of Project 3_  
-- [**Project Name 4**](https://github.com/datev-araboghlian/project4)  
-  _Brief Description of Project 4_  
-
+- [**Gakhaghan**](https://github.com/datev-araboghlian/Gakhaghan)  
+  _I'm in the process of making a hangman game in Amrneian, something that has never been done!_  
+- [**Tic-Tac-Toe**](https://github.com/Jericho-Cortez/Morpion.git)  
+  _This isn't anything special, it's a simple "Morpion" game with a little bit of a kick_  
 ---
 
 ## 🌍 Let's Connect!
