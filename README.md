@@ -8,7 +8,7 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ```
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/datev-araboghlian)](https://www.linkedin.com/in/datev-araboghlian)  
-[![Portfolio](https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio)](https://yourportfolio.com)  
 [![GitHub Followers](https://img.shields.io/github/followers/datev-araboghlian?label=Follow%20Me&style=social)](https://github.com/datev-araboghlian)
 
 ---
