@@ -14,7 +14,7 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ---
 
 ## 💼 About Me
-- 🔭 I’m currently working on ![a hangman game in Armenian](https://github.com/datev-araboghlian/Gakhaghan)]
+- 🔭 I’m currently working on **[a hangman game in Armenian](https://github.com/datev-araboghlian/Gakhaghan)]**
 - 🌱 I’m learning **cyber security**  
 - 💬 Ask me about **the web**  
 - 📫 How to reach me: **[datev.arab-oghlian@gmail.com](mailto:datev.arab-oghlian@gmail.com)**  
