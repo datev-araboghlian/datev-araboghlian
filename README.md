@@ -14,10 +14,10 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ---
 
 ## 💼 About Me
-- 🔭 I’m currently working on **[Your Cool Project](https://github.com/yourusername/yourproject)**  
+- 🔭 I’m currently working on **[Your Cool Project]([https://github.com/yourusername/yourproject](https://github.com/datev-araboghlian/Gakhaghan))**  
 - 🌱 I’m learning **[Your Current Tech/Skill]**  
 - 💬 Ask me about **[Your Expertise Area]**  
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
+- 📫 How to reach me: **[your.email@example.com](mailto:datev.arab-oghlian@gmail.com)**  
 - ⚡ Fun fact: **[A Fun Fact About You]**  
 
 ---
