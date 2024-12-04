@@ -41,6 +41,8 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 - [**Gakhaghan**](https://github.com/datev-araboghlian/Gakhaghan)  
   _I'm in the process of making a hangman game in Amrneian, something that has never been done!_  
 - [**Tic-Tac-Toe**](https://github.com/Jericho-Cortez/Morpion.git)  
+  _This isn't anything special, it's a simple "Morpion" game with a little bit of a kick_
+- [**Minesweeper**](https://github.com/datev-araboghlian/Minesweeper.git)  
   _This isn't anything special, it's a simple "Morpion" game with a little bit of a kick_  
 ---
 
