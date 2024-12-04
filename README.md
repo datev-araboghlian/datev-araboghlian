@@ -43,7 +43,7 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 - [**Tic-Tac-Toe**](https://github.com/Jericho-Cortez/Morpion.git)  
   _This isn't anything special, it's a simple "Morpion" game with a little bit of a kick_
 - [**Minesweeper**](https://github.com/datev-araboghlian/Minesweeper.git)  
-  _This isn't anything special, it's a simple "Morpion" game with a little bit of a kick_  
+  _This is a Minesweeper game modified to look like we're playing on an old windows computer_  
 ---
 
 ## 🌍 Let's Connect!
