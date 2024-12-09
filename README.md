@@ -8,7 +8,7 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ```
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/datev-araboghlian)](https://www.linkedin.com/in/datev-araboghlian)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio)](https://datev.site)  
 [![GitHub Followers](https://img.shields.io/github/followers/datev-araboghlian?label=Follow%20Me&style=social)](https://github.com/datev-araboghlian)
 
 ---
@@ -49,4 +49,4 @@ DDDDD    A    A     TT      EEEEEE    VVVV
 ## 🌍 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/datev-araboghlian)](https://www.linkedin.com/in/datev-araboghlian)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/datevaraboghlian/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio)](https://datev.site)
